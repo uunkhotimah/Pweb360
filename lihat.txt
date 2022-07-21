@@ -1,0 +1,2 @@
+yaya|surabaya|sepeda|4|100|Transfer|500000
+uun|semarang|sepeda|3|100|Tunai|500000
